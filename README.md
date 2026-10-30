@@ -28,4 +28,5 @@ Run the application:
 - outputs/: Evaluation results and visualisations
 
 The model is a research prototype trained using the Fakeddit dataset.
-Predictions should be treated as signals, not definitive fact-checks.
+Predictions should be treated as signals, not definitive fact-checks.<img width="1808" height="840" alt="image" src="https://github.com/user-attachments/assets/5b8bdf07-f850-4856-814b-a342376d7bd9" />
+
