@@ -19,6 +19,8 @@ Install dependencies:
 Run the application:
 
     streamlit run app.py
+    https://h5zyvbdqh8behbg7bhp36n.streamlit.app/
+    https://www.kaggle.com/code/brijit321/fake-news-detection-project/edit
 
 ## Project structure
 
